@@ -1,4 +1,5 @@
----
+latest options are updates can you please check it once
+
 services: app-service\web,app-service
 platforms: dotnet
 author: tiagocostapt
